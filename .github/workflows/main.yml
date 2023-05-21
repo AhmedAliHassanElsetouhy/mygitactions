@@ -1,17 +1,8 @@
-name: Run Rest assured test cases
-
-on:
-  push:
-    branches: ["master"]
-
+name: hello-world
+on: push
 jobs:
-  test:
-    runs-on: windows-latest
+  my-job:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-java@v3
-        with:
-          java-version: "16"
-          distribution: 'temurin'
-          cache: maven
-      - run: mvn cleat test
+      - name: my-step
+        run: echo "Hello World!"
