@@ -2,6 +2,7 @@
 
 <h3 align="center">
   Welcome to Ahmed Ali's profile!
+  My name is Ahmed Ali, Software Testing Engineer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
