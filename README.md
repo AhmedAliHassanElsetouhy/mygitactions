@@ -3,7 +3,7 @@
 <h3 align="center">
   <h1 color ="sky blue">Welcome to Ahmed Ali's profile!</h1>
  </br>
- <a href="https://komarev.com/ghpvc/?username=AhmedAliHassanElsetouhy&style=for-the-badge">
+ <a href="https://komarev.com/ghpvc/?username=AhmedAliHassanElsetouhy&style=for-the-badge" align="center" >
     <img src="https://komarev.com/ghpvc/?username=AhmedAliHassanElsetouhy&style=for-the-badge">
 </br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
