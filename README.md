@@ -23,12 +23,12 @@
 <a href="https://www.linkedin.com/in/ahmed-ali-a5762280/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Ali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/AhmedAliHassanElsetouhy" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Ali-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![MobileTesting](https://img.shields.io/badge/-MobileTesting-05122A?style=flat&logo=javascript)&nbsp;
-![WebTesting](https://img.shields.io/badge/-WebTesting-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![FunctionTesting](https://img.shields.io/badge/-FunctionTesting-05122A?style=flat&logo=HTML5)&nbsp;
-![ApiTesting](https://img.shields.io/badge/-API_Testing-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![AutomationTesting](https://img.shields.io/badge/-AutomationTesting-05122A?style=flat&logo=react)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![MobileTesting](https://img.shields.io/badge/-MobileTesting-05122A?style=flat&logo=MobileTesting)&nbsp;
+![WebTesting](https://img.shields.io/badge/-WebTesting-05122A?style=flat&logo=WebTesting&logoColor=563D7C)&nbsp;
+![FunctionTesting](https://img.shields.io/badge/-FunctionTesting-05122A?style=flat&logo=FunctionTesting)&nbsp;
+![ApiTesting](https://img.shields.io/badge/-API_Testing-05122A?style=flat&logo=ApiTesting&logoColor=1572B6)&nbsp;
+![AutomationTesting](https://img.shields.io/badge/-AutomationTesting-05122A?style=flat&logo=AutomationTesting)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Intellij Code](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellij-code&logoColor=007ACC)&nbsp;
