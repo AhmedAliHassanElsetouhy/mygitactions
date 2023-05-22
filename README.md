@@ -39,10 +39,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![MobileTesting](https://img.shields.io/badge/-Mobile%20Testing-orange?style=flat&logo=MobileTesting)&nbsp;
-
-![MobileTesting](https://img.shields.io/badge/-MobileTesting-05122A?style=flat&logo=MobileTesting)&nbsp;
-![WebTesting](https://img.shields.io/badge/-WebTesting-05122A?style=flat&logo=WebTesting&logoColor=563D7C)&nbsp;
-![FunctionTesting](https://img.shields.io/badge/-FunctionTesting-05122A?style=flat&logo=FunctionTesting)&nbsp;
+![WebTesting](https://img.shields.io/badge/-WebTesting-brightgreenA?style=flat&logo=WebTesting&logoColor=563D7C)&nbsp;
+![FunctionTesting](https://img.shields.io/badge/-FunctionTesting-yellowgreen?style=flat&logo=FunctionTesting)&nbsp;
 ![ApiTesting](https://img.shields.io/badge/-API_Testing-05122A?style=flat&logo=ApiTesting&logoColor=1572B6)&nbsp;
 ![AutomationTesting](https://img.shields.io/badge/-AutomationTesting-05122A?style=flat&logo=AutomationTesting)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=339933)&nbsp;
