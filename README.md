@@ -1,9 +1,9 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  <h1 color ="sky blue">Welcome to Ahmed Ali's profile!</h1>
+  Welcome to Ahmed Ali's profile!
  </br>
- <a href="https://komarev.com/ghpvc/?username=AhmedAliHassanElsetouhy&style=for-the-badge" align="center" >
+ <a href="https://komarev.com/ghpvc/?username=AhmedAliHassanElsetouhy&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AhmedAliHassanElsetouhy&style=for-the-badge">
 </br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
