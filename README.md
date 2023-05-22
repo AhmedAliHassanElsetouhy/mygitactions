@@ -38,7 +38,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<img src="https://camo.githubusercontent.com/dc58b8ec9932ac3e41f1781365a1bbd4889d456a24d8f812ab8c917fceffb997/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53656c656e69756d2d3030414130313f7374796c653d666f722d7468652d6261646765266c6f676f3d73656c656e69756d266c696e6b3d687474703a2f2f7269676874266c6f676f436f6c6f723d666666666666" alt="MobileTesting" data-canonical-src="[https://img.shields.io/badge/Selenium-00AA01?style=for-the-badge&amp;logo=selenium&amp](https://img.shields.io/badge/-MobileTesting-05122A?style=flat&logo=MobileTesting);link=http://right&amp;logoColor=ffffff" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/dc58b8ec9932ac3e41f1781365a1bbd4889d456a24d8f812ab8c917fceffb997/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53656c656e69756d2d3030414130313f7374796c653d666f722d7468652d6261646765266c6f676f3d73656c656e69756d266c696e6b3d687474703a2f2f7269676874266c6f676f436f6c6f723d666666666666" alt="MobileTesting" data-canonical-src="[https://img.shields.io/badge/MobileTesting-00AA01?style=for-the-badge&amp;logo=selenium&amp](https://img.shields.io/badge/-MobileTesting-05122A?style=flat&logo=MobileTesting);link=http://right&amp;logoColor=ffffff" style="max-width: 100%;">
 
 
 ![MobileTesting](https://img.shields.io/badge/-MobileTesting-05122A?style=flat&logo=MobileTesting)&nbsp;
