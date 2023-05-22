@@ -37,6 +37,9 @@
 </br>
 
 ### 🛠 &nbsp;Tech Stack
+<img ![MobileTesting](https://img.shields.io/badge/-MobileTesting-05122A?style=flat&logo=MobileTesting)&nbsp; 
+ alt="MobileTesting" data-canonical-src="https://img.shields.io/badge/MobileTesting-00AA01?style=for-the-badge&amp;logo=MobileTesting&amp;link=http://right&amp;logoColor=ffffff" style="max-width: 100%;">
+
 ![MobileTesting](https://img.shields.io/badge/-MobileTesting-05122A?style=flat&logo=MobileTesting)&nbsp;
 ![WebTesting](https://img.shields.io/badge/-WebTesting-05122A?style=flat&logo=WebTesting&logoColor=563D7C)&nbsp;
 ![FunctionTesting](https://img.shields.io/badge/-FunctionTesting-05122A?style=flat&logo=FunctionTesting)&nbsp;
