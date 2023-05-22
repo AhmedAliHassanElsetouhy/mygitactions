@@ -41,12 +41,12 @@
 ![MobileTesting](https://img.shields.io/badge/-Mobile%20Testing-orange?style=flat&logo=MobileTesting)&nbsp;
 ![WebTesting](https://img.shields.io/badge/-WebTesting-brightgreenA?style=flat&logo=WebTesting&logoColor=563D7C)&nbsp;
 ![FunctionTesting](https://img.shields.io/badge/-FunctionTesting-yellowgreen?style=flat&logo=FunctionTesting)&nbsp;
-![ApiTesting](https://img.shields.io/badge/-API_Testing-05122A?style=flat&logo=ApiTesting&logoColor=1572B6)&nbsp;
-![AutomationTesting](https://img.shields.io/badge/-AutomationTesting-05122A?style=flat&logo=AutomationTesting)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=339933)&nbsp;
-![Regression Testing](https://img.shields.io/badge/-RegressionTesting-05122A?style=flat&logo=RegressionTesting)&nbsp;
-![Integration Testing](https://img.shields.io/badge/-IntegrationTesting-05122A?style=flat&logo=IntegrationTesting)&nbsp;
-![RestAssured](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=RestAssured)&nbsp;
+![ApiTesting](https://img.shields.io/badge/-API_Testing-green?style=flat&logo=ApiTesting&logoColor=1572B6)&nbsp;
+![AutomationTesting](https://img.shields.io/badge/-AutomationTesting-Yellow?style=flat&logo=AutomationTesting)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=339933)&nbsp;
+![Regression Testing](https://img.shields.io/badge/-RegressionTesting-blue?style=flat&logo=RegressionTesting)&nbsp;
+![Integration Testing](https://img.shields.io/badge/-IntegrationTesting-red?style=flat&logo=IntegrationTesting)&nbsp;
+![RestAssured](https://img.shields.io/badge/-Sass-skyblue?style=flat&logo=RestAssured)&nbsp;
 ![Intellij Code](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellij-code&logoColor=007ACC)&nbsp;
 </br>
   
