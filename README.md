@@ -3,7 +3,6 @@
 <h3 align="center">
   Welcome to Ahmed Ali's profile!
  </br>
-  My name is Ahmed Ali, Software Testing Engineer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -19,14 +18,13 @@
 - 👨‍💻 Check out my porfile at https://www.linkedin.com/in/ahmed-ali-a5762280/ to see my skills and Contact info..
 
 <ul dir="auto">
-<li>Web Tester<g-emoji class="g-emoji" alias="web-testing" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f467.png">♦️</g-emoji></li>
+<li>Web Testing FrontEnd and BackEnd<g-emoji class="g-emoji" alias="web-testing" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f467.png">♦️</g-emoji></li>
 <li>Mobile Tester <g-emoji class="g-emoji" alias="diamonds" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2666.png">♦️</g-emoji></li>
 <li>API Tester<g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></li>
 <li>Learner continouslly search for information to gain new knowledge and skills<g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji></li>
 <li>Automation Testing Learner<g-emoji class="g-emoji" alias="tornado" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f32a.png">🌪️</g-emoji></li>
 <li>I adore travilling and Camping.<g-emoji class="g-emoji" alias="soccer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26bd.png">♦️</g-emoji></li>
 </ul>
-
 
 ### Connect with Me :
 
@@ -45,16 +43,12 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Intellij Code](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellij-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-
+![RestAssured](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=RestAssured)&nbsp;
 
 <a href="https://komarev.com/ghpvc/?username=AhmedAliHassanElsetouhy&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AhmedAliHassanElsetouhy&style=for-the-badge">
-  
 
 
-<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h3 tabindex="-1" dir="auto"><a id="user-content-hello-my-name-is-Ahmed-Ali-and-i'm-an-Egyptian" class="anchor" aria-hidden="true" href="#hello-my-name-is-Ahmed-and-i'm-an-Egyptian--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
-</p>
   
 <h5 tabindex="-1" dir="auto"><a id="user-content-languages-tools-and-technologies" class="anchor" aria-hidden="true" href="#languages-tools-and-technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Languages tools and technologies:</h5>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5bc01bd52a902b104b414a303bc363e66d1e6fb19f4b6bb1ac13030721ffaa8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c696e6b3d687474703a2f2f7269676874266c6f676f436f6c6f723d666666666666">
