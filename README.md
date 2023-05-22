@@ -37,17 +37,7 @@
 </br>
 
 ### 🛠 &nbsp;Tech Stack
-
-<img  src="https://img.shields.io/static/v1?label=MobileTesting&message=MobileTesting&color=ffffff?&alt="MobileTesting">
-<img  src="https://img.shields.io/static/v1?label=TFS&message=TFS&color=ffffff?&alt="TFS">
-                                                                                         
-
-<img src="https://camo.githubusercontent.com/dc58b8ec9932ac3e41f1781365a1bbd4889d456a24d8f812ab8c917fceffb997/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53656c656e69756d2d3030414130313f7374796c653d666f722d7468652d6261646765266c6f676f3d73656c656e69756d266c696e6b3d687474703a2f2f7269676874266c6f676f436f6c6f723d666666666666" 
-     alt="Selenium" 
-     data-canonical-src="https://img.shields.io/badge/Selenium-00AA01?style=for-the-badge&amp;logo=selenium&amp;link=http://right&amp;logoColor=ffffff" style="max-width: 100%;">
-
-
-(https://img.shields.io/badge/-MobileTesting-05122A?style=flat&logo=MobileTesting)&nbsp;
+![MobileTesting](https://img.shields.io/badge/-MobileTesting-05122A?style=flat&logo=MobileTesting)&nbsp;
 ![WebTesting](https://img.shields.io/badge/-WebTesting-05122A?style=flat&logo=WebTesting&logoColor=563D7C)&nbsp;
 ![FunctionTesting](https://img.shields.io/badge/-FunctionTesting-05122A?style=flat&logo=FunctionTesting)&nbsp;
 ![ApiTesting](https://img.shields.io/badge/-API_Testing-05122A?style=flat&logo=ApiTesting&logoColor=1572B6)&nbsp;
@@ -55,8 +45,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=339933)&nbsp;
 ![Regression Testing](https://img.shields.io/badge/-RegressionTesting-05122A?style=flat&logo=RegressionTesting)&nbsp;
 ![Integration Testing](https://img.shields.io/badge/-IntegrationTesting-05122A?style=flat&logo=IntegrationTesting)&nbsp;
-![Intellij Code](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellij-code&logoColor=007ACC)&nbsp;
 ![RestAssured](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=RestAssured)&nbsp;
+![Intellij Code](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellij-code&logoColor=007ACC)&nbsp;
 </br>
   
 <h5 tabindex="-1" dir="auto"><a id="user-content-languages-tools-and-technologies" class="anchor" aria-hidden="true" href="#languages-tools-and-technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Languages tools and technologies:</h5>
