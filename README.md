@@ -43,8 +43,8 @@
 ![ApiTesting](https://img.shields.io/badge/-API_Testing-05122A?style=flat&logo=ApiTesting&logoColor=1572B6)&nbsp;
 ![AutomationTesting](https://img.shields.io/badge/-AutomationTesting-05122A?style=flat&logo=AutomationTesting)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Regression Testing](https://img.shields.io/badge/-RegressionTesting-05122A?style=flat&logo=RegressionTesting)&nbsp;
+![Integration Testing](https://img.shields.io/badge/-IntegrationTesting-05122A?style=flat&logo=IntegrationTesting)&nbsp;
 ![Intellij Code](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=intellij-code&logoColor=007ACC)&nbsp;
 ![RestAssured](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=RestAssured)&nbsp;
 </br>
