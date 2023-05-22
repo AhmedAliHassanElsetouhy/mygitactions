@@ -21,6 +21,8 @@
 
 <a href="https://www.linkedin.com/in/ahmed-ali-a5762280/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Ali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/AhmedAliHassanElsetouhy" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Ali-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="mailto:ahmed.ali.hassan.elsetouhy@gmail.com"><img src="https://camo.githubusercontent.com/1dc06021178d145723864f7234e934500caa393dab83fdd18b7090f87550a802/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c696e6b3d687474703a2f2f7269676874266c6f676f436f6c6f723d666666666666" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;link=http://right&amp;logoColor=ffffff" style="max-width: 100%;"></a>
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 ![MobileTesting](https://img.shields.io/badge/-MobileTesting-05122A?style=flat&logo=MobileTesting)&nbsp;
@@ -41,8 +43,7 @@
 <br>
 <a href="https://komarev.com/ghpvc/?username=AhmedAliHassanElsetouhy&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AhmedAliHassanElsetouhy&style=for-the-badge">
-  <a href="mailto:ahmed.ali.hassan.elsetouhy@gmail.com"><img src="https://camo.githubusercontent.com/1dc06021178d145723864f7234e934500caa393dab83fdd18b7090f87550a802/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c696e6b3d687474703a2f2f7269676874266c6f676f436f6c6f723d666666666666" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;link=http://right&amp;logoColor=ffffff" style="max-width: 100%;"></a>
-</a>
+  
 
 
 <div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h3 tabindex="-1" dir="auto"><a id="user-content-hello-my-name-is-Ahmed-Ali-and-i'm-an-Egyptian" class="anchor" aria-hidden="true" href="#hello-my-name-is-Ahmed-and-i'm-an-Egyptian--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hello, My name is Ahmed Ali and i'm and Egyptian</h3>
