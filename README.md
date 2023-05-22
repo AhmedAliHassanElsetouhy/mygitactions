@@ -36,7 +36,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedAliHassanElsetouhy&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedAliHassanElsetouhy&show_icons=true&locale=en&layout=compact&theme=radical" alt="" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=AhmedAliHassanElsetouhy&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=AhmedAliHassanElsetouhy&style=for-the-badge">
